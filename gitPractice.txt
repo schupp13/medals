@@ -1,1 +1,6 @@
 use git --help to see an instruction for the major git commands
+
+
+git diff shows the differneces made 
+
+git diff --staged = compares the staged files with the current files.
