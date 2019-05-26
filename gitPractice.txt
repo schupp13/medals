@@ -1,0 +1,1 @@
+use git --help to see an instruction for the major git commands
