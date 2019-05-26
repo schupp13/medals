@@ -7,3 +7,8 @@ git diff --staged = compares the staged files with the current files.
 
 the revert command undos commits
 
+you clone a repo by using the git clone -   git clone originalFile clone file
+
+
+git remote checks to what the remote repos are, if you are in the clone you should see "origin" wich is the repo you originally cloned.  
+
